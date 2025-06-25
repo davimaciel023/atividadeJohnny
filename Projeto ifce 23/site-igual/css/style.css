@@ -70,7 +70,7 @@ header {
 }
 
 .btn {
-    padding: 40px 1px;
+    padding: 2.5rem 1px;
     display: flex;
     justify-content: space-around;
     gap: 1.25rem;
@@ -79,7 +79,7 @@ header {
 .btn button {
     font-weight: 700;
     font-size: 1rem;
-    padding: 1rem 4.40rem;
+    padding: 1rem 3rem;
     background: transparent;
     border: 2px solid var(--button-color);
     border-radius: 1rem;
